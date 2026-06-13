@@ -3,7 +3,9 @@
 ## UAS Pemrograman Web 2
 
 **Nama:** Sayyid Sulthan Abyan
+
 **NIM:** 312410496
+
 **Mata Kuliah:** Pemrograman Web 2
 
 ---
@@ -79,9 +81,7 @@ Relasi:
 
 ### Screenshot Relasi Database
 
-> Tambahkan screenshot Designer phpMyAdmin di sini.
-
-![Relasi Database](screenshots/relasi-database.png)
+![Relasi Database](screenshot/database.png)
 
 ---
 
@@ -136,33 +136,35 @@ Endpoint manipulasi data dilindungi menggunakan Authorization Bearer Token melal
 
 ### Screenshot Error 401 Unauthorized
 
-> Tambahkan screenshot Postman saat mengakses endpoint tanpa token.
-
-![401 Unauthorized](screenshots/error-401.png)
+![401 Unauthorized](screenshot/401.png)
 
 ---
 
 ## Tampilan Aplikasi
 
+### Halaman Publik
+
+![publik](screenshot/public.png)
+
 ### Halaman Login
 
-![Login](screenshots/login.png)
+![Login](screenshot/login.png)
 
 ### Dashboard Administrator
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Form Modal Tambah/Edit Data
 
-![Modal](screenshots/modal.png)
+![Modal](screenshot/modaltambah.png)
 
 ### Tabel Data Inventaris
 
-![Tabel](screenshots/tabel-barang.png)
+![Tabel](screenshot/tabel.png)
 
 ### Histori Barang
 
-![Histori](screenshots/histori.png)
+![Histori](screenshot/histori.png)
 
 ---
 
@@ -266,12 +268,6 @@ Password : admin123
 ```
 
 (Sesuaikan dengan akun yang digunakan pada database)
-
----
-
-## Link Repository GitHub
-
-https://github.com/sayyid587/UAS_Web2_312410496_Sayyidsulthanabyan
 
 ---
 
